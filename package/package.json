@@ -1,6 +1,6 @@
 {
   "name": "hash-rocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple to use Dependency which generates super strong Hash codes",
   "main": "hash-rocket.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/Nishantjaryal/hash-rocket.git"
   },
   "keywords": [
-    "hash-rocket","genhash", "hash generator", "hash-rocket"
+    "hash-rocket",
+    "genhash",
+    "hash generator",
+    "hash-rocket"
   ],
   "author": "Nishant Jaryal",
   "license": "ISC",
