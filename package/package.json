@@ -1,22 +1,22 @@
 {
-  "name": "gethash",
+  "name": "hash-rocket",
   "version": "1.0.0",
   "description": "Simple to use Dependency which generates super strong Hash codes",
-  "main": "getHash.js",
+  "main": "hash-rocket.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nishantjaryal/getHash.git"
+    "url": "git+https://github.com/Nishantjaryal/hash-rocket.git"
   },
   "keywords": [
-    "getHash","genhash", "hash generator"
+    "hash-rocket","genhash", "hash generator", "hash-rocket"
   ],
   "author": "Nishant Jaryal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nishantjaryal/getHash/issues"
+    "url": "https://github.com/Nishantjaryal/hash-rocket/issues"
   },
-  "homepage": "https://github.com/Nishantjaryal/getHash#readme"
+  "homepage": "https://github.com/Nishantjaryal/hash-rocket#readme"
 }
