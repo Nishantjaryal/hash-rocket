@@ -1,0 +1,22 @@
+{
+  "name": "gethash",
+  "version": "1.0.0",
+  "description": "Simple to use Dependency which generates super strong Hash codes",
+  "main": "getHash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishantjaryal/getHash.git"
+  },
+  "keywords": [
+    "getHash","genhash", "hash generator"
+  ],
+  "author": "Nishant Jaryal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishantjaryal/getHash/issues"
+  },
+  "homepage": "https://github.com/Nishantjaryal/getHash#readme"
+}
