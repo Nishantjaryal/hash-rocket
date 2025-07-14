@@ -1,5 +1,5 @@
 {
-  "name": "hash-rocket",
+  "name": "@nishantjaryal/hash-rocket",
   "version": "1.0.1",
   "description": "Simple to use Dependency which generates super strong Hash codes",
   "main": "hash-rocket.js",
